@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<MidiSet xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SoundFonts>
+    <SoundFontInfo>
+      <Name>GMGSx</Name>
+      <PatchCount>236</PatchCount>
+      <WaveCount>505</WaveCount>
+      <WaveSize>7376370</WaveSize>
+      <SF2Path>C:/Users/SG/AppData/LocalLow/DefaultCompany/MidiPiano\SoundFont\GMGSx.sf2</SF2Path>
+    </SoundFontInfo>
+  </SoundFonts>
+  <IndexSelectedSF>0</IndexSelectedSF>
+  <MidiFiles>
+    <string>no name</string>
+    <string>onestop</string>
+  </MidiFiles>
+</MidiSet>
